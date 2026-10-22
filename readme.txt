@@ -56,7 +56,7 @@ Available features on the Pattern Categories screen include:
 
 === Quick Links ===
 
-> Source code is available on <a href="https://github.com/DLXPlugins/pattern-wrangler">GitHub</a>. Code contributions and sponsorships appreciated.
+> Source code is available on <a href="https://mattc.link/pattern-wrangler-github">GitHub</a>. Code contributions and sponsorships appreciated.
 
 === Requirements and Compatibility ===
 
@@ -113,7 +113,7 @@ Yes. In the Pattern Wrangler settings, toggle the Enhanced option to off, save, 
 
 = Can I embed Patterns in page builders like Elementor? =
 
-Yes! You can use the `[wp_block slug="pattern-slug"]` shortcode <a href="https://docs.dlxplugins.com/pattern-wrangler/features/the-pattern-importer-block">to output block layouts anywhere</a> in your theme or other blocks. The Pattern must be a local pattern (i.e., reusable block or unsynced pattern).
+Yes! You can use the `[wp_block slug="pattern-slug"]` shortcode to output block layouts anywhere in your theme or other blocks. The Pattern must be a local pattern (i.e., reusable block or unsynced pattern).
 
 = Does this work with Block Themes? =
 
